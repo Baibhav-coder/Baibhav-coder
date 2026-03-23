@@ -11,40 +11,23 @@
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GuardDuty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MITRE_ATT&CK-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<!-- Core Tech -->
+<img src="https://skillicons.dev/icons?i=python,aws,js,html,css,mysql,git,linux" />
+
+<br><br>
+
+<!-- Cybersecurity & Cloud Tools (ICON STYLE) -->
+
+<img src="https://cdn.simpleicons.org/splunk/ffffff" height="40"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40"/>
+<img src="https://cdn.simpleicons.org/owasp/ffffff" height="40"/>
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40"/>
+<img src="https://cdn.simpleicons.org/linux/ffffff" height="40"/>
 
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,js,html,css,mysql,git,linux" />
-</div>
-
-<br>
-
-<p align="center">
-
-<b>☁️ Cloud & DevOps</b><br>
-AWS (IAM, EC2, S3, Lambda, CloudWatch, CloudTrail), Infrastructure Automation<br><br>
-
-<b>🔐 Security</b><br>
-SIEM (Splunk, Microsoft Sentinel/KQL), MITRE ATT&CK, Incident Response, OWASP Top 10<br><br>
-
-<b>🌐 Networking</b><br>
-TCP/IP, DNS, HTTP(S), VPNs, Firewalls, Wireshark, Deep Packet Inspection<br><br>
-
-<b>💻 Programming</b><br>
-Python, Bash, JavaScript, REST APIs
-
-</p>
 
 ---
 
