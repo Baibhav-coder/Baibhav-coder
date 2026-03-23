@@ -3,18 +3,18 @@
 <h3 align="center">Cloud Security Engineer | AWS | SOC Detection | Network Security</h3>
 
 <p align="center">
-Building things, breaking things, securing things, usually in that order.
+Building things, breaking things, securing things—usually in that order.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/10bKPDUM5H7m7u/giphy.gif" width="300"/>
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,js,html,css,mysql,git,linux" />
@@ -41,40 +41,69 @@ Building things, breaking things, securing things, usually in that order.
 
 <h2 align="center">🚀 Security Projects</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-🔐 <b>Cloud Security</b><br>
-Cloud Secure Vault ✅ <br>
-AWS Security Hub Automation (Python) <br>
-S3 Misconfiguration Scanner (boto3) <br>
-IAM Policy Analyzer (Overprivileged Role Detection)<br><br>
+<h3>🔐 Cloud Security</h3>
 
-🛡️ <b>SOC / SIEM</b><br>
-KQL Detection Rules ✅ <br>
-Splunk Dashboards & Alerts <br>
-SIEM Use Case Library (MITRE ATT&CK Mapping) <br>
-Phishing Email Analyzer (SPF/DKIM/DMARC)<br><br>
+- Cloud Secure Vault ✅  
+- AWS Security Hub Automation  
+- S3 Misconfiguration Scanner  
+- IAM Policy Analyzer  
 
-🌐 <b>Network Security</b><br>
-Deep Packet Inspection Analyzer ✅ <br>
-Port Scanner (Python + sockets) <br>
-Firewall Rule Auditor<br><br>
+</td>
 
-💻 <b>Secure Development</b><br>
-OWASP Vulnerable App Testing ✅ <br>
-OWASP Scanner (Python) <br>
-JWT Token Security Tester<br><br>
+<td valign="top" width="50%">
 
-🚨 <b>Threat Detection & IR</b><br>
-Log Analyzer (Windows/Linux) <br>
-IOC Checker (VirusTotal API) <br>
-Incident Response Playbook (Markdown)<br>
+<h3>🛡️ SOC / SIEM</h3>
 
-</p>
+- KQL Detection Rules ✅  
+- Splunk Dashboards & Alerts  
+- SIEM Use Case Library  
+- Phishing Email Analyzer  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<h3>🌐 Network Security</h3>
+
+- Deep Packet Inspection Analyzer ✅  
+- Port Scanner  
+- Firewall Rule Auditor  
+
+</td>
+
+<td valign="top">
+
+<h3>💻 Secure Development</h3>
+
+- OWASP Vulnerable App Testing ✅  
+- OWASP Scanner  
+- JWT Token Tester  
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<h3>🚨 Threat Detection & IR</h3>
+
+- Log Analyzer  
+- IOC Checker (VirusTotal API)  
+- Incident Response Playbook  
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baibhav-Coder&theme=tokyonight" />
@@ -82,7 +111,7 @@ Incident Response Playbook (Markdown)<br>
 
 ---
 
-<h2 align="center">💬 Quote I Live By</h2>
+<h3 align="center">💬 Quote I Live By</h3>
 
 <p align="center">
 “Security isn't a feature, it's a mindset.”
