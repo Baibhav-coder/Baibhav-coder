@@ -1,16 +1,20 @@
 <h1 align="center">Hey 👋 What's Up? I'm Baibhav Chowdhury</h1>
 
-<h3 align="center">Building things, breaking things, securing things—usually in that order.</h3>
+<h3 align="center">Cloud Security Engineer | AWS | SOC Detection | Network Security</h3>
+
+<p align="center">
+Building things, breaking things, securing things—usually in that order.
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ2l9dJ9pS/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,js,html,css,mysql,git,linux" />
@@ -35,18 +39,42 @@
 
 ---
 
-<h3 align="center">🚀 What I'm Into</h3>
+<h2 align="center">🚀 Security Projects</h2>
 
 <p align="center">
-🔐 Cloud Security <br>
-☁️ AWS Architecture <br>
-🌍 SOC Detection & Threat Analysis <br>
-🤖 AI & Machine Learning <br>
+
+🔐 <b>Cloud Security</b><br>
+Cloud Secure Vault ✅ <br>
+AWS Security Hub Automation (Python) <br>
+S3 Misconfiguration Scanner (boto3) <br>
+IAM Policy Analyzer (Overprivileged Role Detection)<br><br>
+
+🛡️ <b>SOC / SIEM</b><br>
+KQL Detection Rules ✅ <br>
+Splunk Dashboards & Alerts <br>
+SIEM Use Case Library (MITRE ATT&CK Mapping) <br>
+Phishing Email Analyzer (SPF/DKIM/DMARC)<br><br>
+
+🌐 <b>Network Security</b><br>
+Deep Packet Inspection Analyzer ✅ <br>
+Port Scanner (Python + sockets) <br>
+Firewall Rule Auditor<br><br>
+
+💻 <b>Secure Development</b><br>
+OWASP Vulnerable App Testing ✅ <br>
+OWASP Scanner (Python) <br>
+JWT Token Security Tester<br><br>
+
+🚨 <b>Threat Detection & IR</b><br>
+Log Analyzer (Windows/Linux) <br>
+IOC Checker (VirusTotal API) <br>
+Incident Response Playbook (Markdown)<br>
+
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baibhav-Coder&theme=tokyonight" />
@@ -54,15 +82,7 @@
 
 ---
 
-<h3 align="center">🎮 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baibhav-Coder&theme=tokyo-night" />
-</p>
-
----
-
-<h3 align="center">💬 Quote I Live By</h3>
+<h2 align="center">💬 Quote I Live By</h2>
 
 <p align="center">
 “Security isn't a feature, it's a mindset.”
