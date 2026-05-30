@@ -103,12 +103,6 @@ Building things, breaking things, securing things—usually in that order.
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baibhav-Coder&theme=tokyonight" />
-</div>
-
 ---
 
 <h3 align="center">💬 Quote I Live By</h3>
