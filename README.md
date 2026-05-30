@@ -3,7 +3,7 @@
 <h3 align="center">Cloud Security Engineer | AWS | SOC Detection | Network Security</h3>
 
 <p align="center">
-Building things, breaking things, securing things—usually in that order.
+Building things, breaking things, securing things, usually in that order.
 </p>
 
 ---
